@@ -1,3 +1,3 @@
 # Machine Learning by Stanford University - Coursera
 
-Este repositório contém trabalhos de http://online.stanford.edu/
+This repository contains works of  http://online.stanford.edu/
